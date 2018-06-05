@@ -4,22 +4,22 @@
             <div class="col-md-2 col-6">
               <h4 class="h6">Rock</h4>
               <ul class="list-unstyled">
-                <li><a href="rock.html">História</a></li>
-                <li><a href="rock-inst.html">Instrumentos</a></li>
+                <li><a href="rock.php">História</a></li>
+                <li><a href="rock-inst.php">Instrumentos</a></li>
               </ul>
             </div>
             <div class="col-md-2 col-6">
               <h4 class="h6">Samba</h4>
               <ul class="list-unstyled">
-                <li><a href="local.html">História</a></li>
-                <li><a href="local.html">Instrumentos</a></li>
+                <li><a href="samba.php">História</a></li>
+                <li><a href="samba-inst.php">Instrumentos</a></li>
               </ul>
             </div>
              <div class="col-md-2 col-6">
               <h4 class="h6">Pagode</h4>
               <ul class="list-unstyled">
-                <li><a href="local.html">História</a></li>
-                <li><a href="local.html">Instrumentos</a></li>
+                <li><a href="pagode.php">História</a></li>
+                <li><a href="pagode-inst.php">Instrumentos</a></li>
               </ul>
             </div>
   

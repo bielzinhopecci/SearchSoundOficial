@@ -33,7 +33,7 @@
 
     <article class="container">
         <div class="my-5 text-center">
-            <h1 class="display-5 text-dark">História do Pagode</h1>
+            <h1 class="display-5">História do Pagode</h1>
         </div>
         <div class="row">
             <div class="col-xl-8 col-md-8 col-sm-12">
