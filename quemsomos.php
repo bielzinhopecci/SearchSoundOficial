@@ -48,7 +48,7 @@
             <img class="qmsomos" src="dist/img/img-leandro.jpg" alt="Foto Grupo">
         </div>
         <div class="col-md-10 textgrupo">
-        <p>Leandro Barbosa - RA:2650831723038. Olá tudo bem? Espero que sim, seja bem-vindo ao nosso portal. Visite as minhas páginas fui responsável pela criação das páginas <a class="link-qmsomos" href="samba.php">história do pagode</a> e <a class="link-qmsomos" href="samba-inst.php">instrumentos do pagode</a>. Dúvidas estarei a disposição.</p>
+        <p>Leandro Barbosa - RA:2650831723038. Olá tudo bem? Espero que sim, seja bem-vindo ao nosso portal. Visite as minhas páginas fui responsável pela criação das páginas <a class="link-qmsomos" href="pagode.php">história do pagode</a> e <a class="link-qmsomos" href="pagode-inst.php">instrumentos do pagode</a>. Dúvidas estarei a disposição.</p>
         </div>
     </div>
     
