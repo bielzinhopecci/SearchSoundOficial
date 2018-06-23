@@ -16,11 +16,11 @@
 
 <body>
     
-<header>
-    <?php 
-        $pagina='samba-inst';
+   <!-- <header> -->
+   <?php 
+        $pagina='index';
         include 'includes/menu.php'; ?> 
-    </header>
+   <!-- </header> -->
 
 <div class="container">
 
@@ -83,9 +83,9 @@
         
     </div>
 
-        <footer>
+       <!-- <footer> -->
        <?php include 'includes/footer.php'; ?> 
-        </footer>
+       <!-- </footer> -->
 
       <?php include 'includes/script.php'; ?> 
 </body>

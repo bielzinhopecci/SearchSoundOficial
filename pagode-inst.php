@@ -17,11 +17,11 @@
 
 <body>
 
-    <header>
-        <?php 
-        $pagina='pagode-inst';
-        include 'includes/menu.php'; ?>
-    </header>
+   <!-- <header> -->
+   <?php 
+        $pagina='index';
+        include 'includes/menu.php'; ?> 
+   <!-- </header> -->
 
     <div class="container">
 
@@ -186,9 +186,9 @@
             </div>
         </section>
     </div>
-    <footer>
-        <?php include 'includes/footer.php'; ?>
-    </footer>
+       <!-- <footer> -->
+       <?php include 'includes/footer.php'; ?> 
+       <!-- </footer> -->
 
     <?php include 'includes/script.php'; ?>
 </body>

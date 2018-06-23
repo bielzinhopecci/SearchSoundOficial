@@ -17,11 +17,11 @@
 
 <body>
 
-    <header>
-        <?php 
-        $pagina='pagode';
-        include 'includes/menu.php'; ?>
-    </header>
+   <!-- <header> -->
+   <?php 
+        $pagina='index';
+        include 'includes/menu.php'; ?> 
+   <!-- </header> -->
 
                                                 <!--História do Pagode-->
 
@@ -127,9 +127,9 @@
 
                                                <!--Footer-->
 
-    <footer>
-        <?php include 'includes/footer.php'; ?>
-    </footer>
+       <!-- <footer> -->
+       <?php include 'includes/footer.php'; ?> 
+       <!-- </footer> -->
 
     <?php include 'includes/script.php'; ?>
 </body>

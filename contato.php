@@ -15,11 +15,11 @@
 
 <body>
 
-    <header>
-    <?php 
-        $pagina='contato';
+   <!-- <header> -->
+   <?php 
+        $pagina='index';
         include 'includes/menu.php'; ?> 
-    </header>
+   <!-- </header> -->
 
     
 <section class="container">
@@ -55,9 +55,9 @@
 </section>
 
 
-        <footer>
+       <!-- <footer> -->
        <?php include 'includes/footer.php'; ?> 
-        </footer>
+       <!-- </footer> -->
 
 <!-- Bootstrap core JavaScript
 ================================================== -->

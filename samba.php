@@ -15,12 +15,12 @@
 
 <body>
     
-    <header>
-    <?php 
-        $pagina='samba';
+   <!-- <header> -->
+   <?php 
+        $pagina='index';
         include 'includes/menu.php'; ?> 
-    </header>
-
+   <!-- </header> -->
+   
 <div class="introducao-samba">
   <div class="ptext">
           <span class="border">Samba</span>
@@ -38,7 +38,7 @@
   <hr class="prop">
 
   <div class="row samba-divisor">
-    <img src="dist/img/samba-historia2.jpg" alt="Rock" class="col-md-3">
+    <img src="dist/img/samba-historia2.jpg" alt="Ilustração antiga que retrata a uma roda de samba" class="col-md-3">
     <p class="col-md-9 textgrupo">Apesar de ser um gênero musical resultante das estruturas musicais europeias e africanas, foi com os símbolos da cultura negra brasileira que o samba se alastrou pelo território nacional. Embora houvesse variadas formas de samba no Brasil (não apenas na Bahia, como também no Maranhão, em Minas Gerais, em Pernambuco e em São Paulo) sob a forma de diversos ritmos e danças populares regionais que se originaram do batuque, o samba como gênero musical é entendido como uma expressão musical urbana surgida no início do século XX na cidade do Rio de Janeiro, nas casas das chamadas "tias baianas". </p>
   </div>
 
@@ -46,13 +46,13 @@
 
   <div class="row samba-divisor">
   <p class="col-md-9 textgrupo">A partir dos anos 1930, o samba ganhou grande espaço na indústria fonográfica e também foi usado pela política ditatorial de Getúlio Vargas na época do Estado Novo. Um dos grandes estudiosos das raízes do samba também era sambista e figurou entre os nomes que se alastraram no Rio de Janeiro nos anos 1930. Seu apelido era “Almirante”, seu nome era Henrique Foreis Domingues (1908 - 1980), que depois se tornou radialista. Almirante integrou o grupo “Bando dos Tangarás” junto a Noel Rosa na Vila Isabel. </p>
-    <img src="dist/img/samba-historia1.jpg" alt="Rock" class="col-md-3">
+    <img src="dist/img/samba-historia1.jpg" alt="Fotografia de uma roda de samba cercada de pessoas assistindo" class="col-md-3">
   </div>
 
   <hr class="prop">
 
   <div class="row samba-divisor">
-    <img src="dist/img/samba-historia3.jpg" alt="Rock" class="col-md-3">
+    <img src="dist/img/samba-historia3.jpg" alt="Ilustração muito antiga que representa escravos em uma roda de samba" class="col-md-3">
     <p class="col-md-9 textgrupo">O primeiro samba gravado no Brasil foi Pelo Telefone, em janeiro de 1917, cantado por Baiano. A letra deste samba foi uma composição coletiva com a participação de João da Baiana, Pixinguinha, Donga e outros músicos que frequentavam a casa da Tia Ciata, no Rio de Janeiro. Donga (Ernesto Joaquim Maria dos Santos) havia registrado, na Biblioteca Nacional do Brasil, a letra deste samba em 27 de novembro de 1916. Direitos autorais dos textos pertencentes a <a href="https://www.todamateria.com.br/samba/" target="_blank">Daniela Diana.</a>
 
     
@@ -69,9 +69,9 @@
 
 </section>
 
-        <footer>
+       <!-- <footer> -->
        <?php include 'includes/footer.php'; ?> 
-        </footer>
+       <!-- </footer> -->
 
        <?php include 'includes/script.php'; ?> 
 </body>

@@ -15,11 +15,11 @@
 
 <body>
 
-<header>
-    <?php 
-        $pagina='quemsomos';
+   <!-- <header> -->
+   <?php 
+        $pagina='index';
         include 'includes/menu.php'; ?> 
-    </header>
+   <!-- </header> -->
 
     
 <section class="container">
@@ -54,10 +54,9 @@
     
 </section>
 
-
-        <footer>
+       <!-- <footer> -->
        <?php include 'includes/footer.php'; ?> 
-        </footer>
+       <!-- </footer> -->
 
 
 <?php include 'includes/script.php'; ?> 
