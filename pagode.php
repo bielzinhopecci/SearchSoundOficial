@@ -45,7 +45,7 @@
                 </p>
             </div>
             <div class="col-xl-4 col-md-4 col-sm-12">
-                <img src="dist/img/Pagode%20-%20Instrumentos.jpeg" alt="Instrumenstos">
+                <img src="dist/img/Pagode%20-%20Instrumentos.jpeg" alt="Imagens de Instrumenstos de pagode">
             </div>
         </div>
 
@@ -63,7 +63,7 @@
                 </p>
             </div>
             <div class="col-xl-4 col-md-4 col-sm-12 col-md-pull-8 col-sm-push-0">
-                <img src="dist/img/Pagode%20-%20BeteCarvalho.jpg" alt="Bete Carvalho" class="mt-4">
+                <img src="dist/img/Pagode%20-%20BeteCarvalho.jpg" alt="Imagem da Bete Carvalho" class="mt-4">
                 <small>Bete Carvalho</small>
             </div>
         </div>
@@ -90,7 +90,7 @@
                 </p>
             </div>
             <div class="col-md-4 mt-0 mb-3">
-                <img src="dist/img/Pagode%20-%20FundodeQuintal.jpg" alt="Fundo de Quintal">
+                <img src="dist/img/Pagode%20-%20FundodeQuintal.jpg" alt="imgagem do grupo Fundo de Quintal">
                 <small>Fundo de Quintal.</small>
             </div>
         </div>

@@ -33,19 +33,19 @@
             <nav class="col-md-3 EscInst">
                 <ul class="list-unstyled">
                     <li class="mt-2">
-                        <img class="ImgNav mr-3" align="left" src="dist/img/Pagode%20-%20Pandeiro.jpg" alt="Pandeiro">
+                        <img class="ImgNav mr-3" align="left" src="dist/img/Pagode%20-%20Pandeiro.jpg" alt="Imagem Ilustrativa de Pandeiro">
                         <p class="pt-3">Pandeiro</p>
                     </li>
                     <li class="pb-5 pt-5">
-                        <img class="ImgNav mr-3" align="left" src="dist/img/Pagode%20-%20Violao.jpg" alt="Violão">
+                        <img class="ImgNav mr-3" align="left" src="dist/img/Pagode%20-%20Violao.jpg" alt="Imagem Ilustrativa de Violão">
                         <p class="pt-3">Violão</p>
                     </li>
                     <li class="pb-5">
-                        <img class="ImgNav mr-3" align="left" src="dist/img/Pagode%20-%20Repique.jpg" alt="Repique">
+                        <img class="ImgNav mr-3" align="left" src="dist/img/Pagode%20-%20Repique.jpg" alt="Imagem Ilustrativa de Repique">
                         <p class="pt-3">Repique</p>
                     </li>
                     <li>
-                        <img class="ImgNav mr-3" align="left" src="dist/img/Pagode%20-%20Tamborim.jpg" alt="Tamborim">
+                        <img class="ImgNav mr-3" align="left" src="dist/img/Pagode%20-%20Tamborim.jpg" alt="Imagem Ilustrativa de Tamborim">
                         <p class="pt-3">Tamborim</p>
                     </li>
                 </ul>
@@ -53,26 +53,26 @@
             <nav class="col-md-3 EscInst">
                 <ul class="list-unstyled">
                     <li class="mt-2">
-                        <img class="ImgNav mr-3" align="left" src="dist/img/Pagode%20-%20Cavaquinho.jpg" alt="Cavaquinho">
+                        <img class="ImgNav mr-3" align="left" src="dist/img/Pagode%20-%20Cavaquinho.jpg" alt="Imagem Ilustrativa de Cavaquinho">
                         <p class="pt-3">Cavaquinho</p>
                     </li>
                     <li class="pb-5 pt-5">
-                        <img class="ImgNav mr-3" align="left" src="dist/img/Pagode%20-%20TanTan.jpg" alt="TanTan">
+                        <img class="ImgNav mr-3" align="left" src="dist/img/Pagode%20-%20TanTan.jpg" alt="Imagem Ilustrativa de TanTan">
                         <p class="pt-3">TanTan</p>
                     </li>
                     <li class="pb-5">
-                        <img class="ImgNav mr-3" align="left" src="dist/img/Pagode%20-%20Cuica.jpg" alt="Cuica">
+                        <img class="ImgNav mr-3" align="left" src="dist/img/Pagode%20-%20Cuica.jpg" alt="Imagem Ilustrativa de Cuica">
                         <p class="pt-3">Cuica</p>
                     </li>
                     <li>
-                        <img class="ImgNav mr-3" align="left" src="dist/img/Pagode%20-%20Ganza.jpg" alt="Ganza">
+                        <img class="ImgNav mr-3" align="left" src="dist/img/Pagode%20-%20Ganza.jpg" alt="Imagem Ilustrativa de Ganza">
                         <p class="pt-3">Ganza</p>
                     </li>
                 </ul>
             </nav>
             <div class="col-md-6">
                 <a href="#">
-                    <img src="dist/img/Pagode%20-%20Imagem%20Inicial.jpg" alt="Violão" height="385px">
+                    <img src="dist/img/Pagode%20-%20Imagem%20Inicial.jpg" alt="Imagem Ilustrativa de uma pessoa tocando Violão" height="385px">
                 </a>
             </div>
         </div>
@@ -88,7 +88,7 @@
                 </p>
             </div>
             <div class="col-md-2">
-                <img class="img-inst" src="dist/img/Pagode%20-%20Pandeiro.jpg" height="200px" width="200px" alt="Pandeiro">
+                <img class="img-inst" src="dist/img/Pagode%20-%20Pandeiro.jpg" height="200px" width="200px" alt="Imagem Ilustrativa de Pandeiro">
             </div>
         </section>
 
@@ -101,7 +101,7 @@
                 </p>
             </div>
             <div class="col-md-2 mt-0 col-md-pull-10 col-sm-push-0">
-                <img class="img-inst" src="dist/img/Pagode%20-%20Cavaquinho.jpg" height="200px" width="200px" alt="Cavaquinho">
+                <img class="img-inst" src="dist/img/Pagode%20-%20Cavaquinho.jpg" height="200px" width="200px" alt="Imagem Ilustrativa de Cavaquinho">
             </div>
         </section>
 
@@ -115,7 +115,7 @@
                 </p>
             </div>
             <div class="col-md-2">
-                <img class="img-inst" src="dist/img/Pagode%20-%20Violao.jpg" height="200px" width="200px" alt="Violão">
+                <img class="img-inst" src="dist/img/Pagode%20-%20Violao.jpg" height="200px" width="200px" alt="Imagem Ilustrativa de Violão">
             </div>
         </section>
 
@@ -128,7 +128,7 @@
                 </p>
             </div>
             <div class="col-md-2 col-md-pull-10 col-sm-push-0">
-                <img class="img-inst" src="dist/img/Pagode%20-%20TanTan.jpg" height="200px" width="200px" alt="TanTan">
+                <img class="img-inst" src="dist/img/Pagode%20-%20TanTan.jpg" height="200px" width="200px" alt="Imagem Ilustrativa de TanTan">
             </div>
         </section>
 
@@ -142,7 +142,7 @@
                 </p>
             </div>
             <div class="col-md-2">
-                <img class="img-inst" src="dist/img/Pagode%20-%20Repique.jpg" height="200px" width="200px" alt="Repique">
+                <img class="img-inst" src="dist/img/Pagode%20-%20Repique.jpg" height="200px" width="200px" alt="Imagem Ilustrativa de Repique">
             </div>
         </section>
 
@@ -154,7 +154,7 @@
                 </p>
             </div>
             <div class="col-md-2 col-md-pull-10 col-sm-push-0">
-                <img class="img-inst" src="dist/img/Pagode%20-%20Cuica.jpg" height="200px" width="200px" alt="Cuica">
+                <img class="img-inst" src="dist/img/Pagode%20-%20Cuica.jpg" height="200px" width="200px" alt="Imagem Ilustrativa de Cuica">
             </div>
         </section>
 
@@ -168,7 +168,7 @@
                 </p>
             </div>
             <div class="col-md-2">
-                <img class="img-inst" src="dist/img/Pagode%20-%20Tamborim.jpg" height="200px" width="200px" alt="Tamborim">
+                <img class="img-inst" src="dist/img/Pagode%20-%20Tamborim.jpg" height="200px" width="200px" alt="Imagem Ilustrativa de Tamborim">
             </div>
         </section>
 
@@ -182,7 +182,7 @@
                 </p>
             </div>
             <div class="col-md-2 col-md-pull-10 col-sm-push-0">
-                <img class="img-inst" src="dist/img/Pagode%20-%20Ganza.jpg" height="200px" width="200px" alt="Ganza">
+                <img class="img-inst" src="dist/img/Pagode%20-%20Ganza.jpg" height="200px" width="200px" alt="Imagem Ilustrativa de Ganza">
             </div>
         </section>
     </div>
