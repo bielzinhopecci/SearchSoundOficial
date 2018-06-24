@@ -19,11 +19,11 @@
 
     <!-- HEADER/MENU -->
 
-   <!-- <header> -->
-   <?php 
-        $pagina='index';
+    <header>
+    <?php 
+        $pagina='rock';
         include 'includes/menu.php'; ?> 
-   <!-- </header> -->
+    </header>
     
 <div class="introducao-rock">
   <div class="ptext">
@@ -46,7 +46,7 @@
             </p>
           </div>
           <div class="rock-art col-md-4">
-            <img src="dist/img/first-rock.jpg" alt="First Rock">
+            <img src="dist/img/first-rock.jpg" alt="Os primeiros músicos do Rock">
           </div>
         </div>
 
@@ -63,7 +63,7 @@
                 </p>
             </div>
               <div class="rock-art col-md-4">
-                <img src="dist/img/elvis.jpg" alt="Elvis" class="mt-2">
+                <img src="dist/img/elvis.jpg" alt="Elvis Presley Músico" class="mt-2">
                   <small>Elvis Presley, O "Rei do Rock".</small>
               </div>
           </div>
@@ -123,9 +123,9 @@
     
         <!-- FOOTER -->
 
-       <!-- <footer> -->
+        <footer>
        <?php include 'includes/footer.php'; ?> 
-       <!-- </footer> -->
+        </footer>
           
         <!-- SCRIPT -->
 
