@@ -115,7 +115,7 @@
         </div>
         <div class="row mt-3 text-center pb-3">
             <div class="col-md-12 pb-3">
-                <iframe class="video video-pag" width="560" height="315" src="https://www.youtube.com/embed/rBoH_QL-kHw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+                <iframe class="video video-pag" src="https://www.youtube.com/embed/rBoH_QL-kHw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
                 </iframe>
                 
             </div>
@@ -132,6 +132,7 @@
        <!-- </footer> -->
 
     <?php include 'includes/script.php'; ?>
+    <?php include 'includes/js.php'; ?>
 </body>
 
 </html>
