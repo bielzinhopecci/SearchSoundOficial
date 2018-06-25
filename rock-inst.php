@@ -16,11 +16,11 @@
 
 <body>
     
-<header>
+<!-- <header> -->
     <?php 
         $pagina='rock-inst';
         include 'includes/menu.php'; ?> 
-    </header>
+<!-- </header> -->
 
 <section class="container">
   <h1 class="text-center pt-5 mt-3 pb-5">Instrumentos do Rock 'n' Roll</h1>
@@ -148,9 +148,9 @@
 
 </section>
 
-        <footer>
+        <!-- <footer> -->
        <?php include 'includes/footer.php'; ?> 
-        </footer>
+        <!-- </footer> -->
 
       <?php include 'includes/script.php'; ?> 
 </body>
