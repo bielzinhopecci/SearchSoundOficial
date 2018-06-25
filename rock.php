@@ -19,11 +19,11 @@
 
     <!-- HEADER/MENU -->
 
-    <header>
+    <!-- <header> -->
     <?php 
         $pagina='rock';
         include 'includes/menu.php'; ?> 
-    </header>
+    <!-- </header> -->
     
 <div class="introducao-rock">
   <div class="ptext">
@@ -123,9 +123,9 @@
     
         <!-- FOOTER -->
 
-        <footer>
+        <!-- <footer> -->
        <?php include 'includes/footer.php'; ?> 
-        </footer>
+        <!-- </footer> -->
           
         <!-- SCRIPT -->
 
