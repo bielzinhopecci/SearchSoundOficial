@@ -17,7 +17,7 @@
     
    <!-- <header> -->
    <?php 
-        $pagina='index';
+        $pagina='samba';
         include 'includes/menu.php'; ?> 
    <!-- </header> -->
    

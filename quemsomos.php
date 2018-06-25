@@ -17,7 +17,7 @@
 
    <!-- <header> -->
    <?php 
-        $pagina='index';
+        $pagina='quemsomos';
         include 'includes/menu.php'; ?> 
    <!-- </header> -->
 

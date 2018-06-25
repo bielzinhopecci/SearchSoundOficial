@@ -19,7 +19,7 @@
 
    <!-- <header> -->
    <?php 
-        $pagina='index';
+        $pagina='pagode';
         include 'includes/menu.php'; ?> 
    <!-- </header> -->
 

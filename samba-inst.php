@@ -18,7 +18,7 @@
     
    <!-- <header> -->
    <?php 
-        $pagina='index';
+        $pagina='samba-inst';
         include 'includes/menu.php'; ?> 
    <!-- </header> -->
 
@@ -33,10 +33,10 @@
                <div class="flip-container" ontouchstart="this.classList.toggle('hover');">   
               	<div class="flipper">  		
                   <div class="front"> 
-                    <img src="dist/img/violao1.jpg" alt="Instrumentos">
+                    <img src="dist/img/violao1.jpg" alt="Imagem de um violão instrumento muito utilizado nas rodas de samba">
                   </div>  
                   <div class="back">  			
-            <img src="dist/img/violao2.jpg" alt="Instrumentos">			
+            <img src="dist/img/violao2.jpg" alt="Imagem de um violão instrumento muito utilizado nas rodas de samba">			
           </div>  	
         </div> 
       </div>   
@@ -51,10 +51,10 @@
                <div class="flip-container" ontouchstart="this.classList.toggle('hover');">   
               	<div class="flipper">  		
                   <div class="front"> 
-                    <img src="dist/img/cavaco1.jpg" alt="Instrumentos">
+                    <img src="dist/img/cavaco1.jpg" alt="Imagem de um cavaco instrumento muito utilizado nas rodas de samba">
                   </div>  
                   <div class="back">  			
-            <img src="dist/img/cavaco2.jpg" alt="Instrumentos">			
+            <img src="dist/img/cavaco2.jpg" alt="Imagem de um cavaco instrumento muito utilizado nas rodas de samba">			
           </div>  	
         </div> 
       </div>   
@@ -69,10 +69,10 @@
                <div class="flip-container" ontouchstart="this.classList.toggle('hover');">   
               	<div class="flipper">  		
                   <div class="front"> 
-                    <img src="dist/img/pandeiro1.jpg" alt="Instrumentos">
+                    <img src="dist/img/pandeiro1.jpg" alt="Imagem de um pandeiro instrumento muito utilizado nas rodas de samba">
                   </div>  
                   <div class="back">  			
-            <img src="dist/img/pandeiro2.jpg" alt="flip2">			
+            <img src="dist/img/pandeiro2.jpg" alt="Imagem de um pandeiro instrumento muito utilizado nas rodas de samba">			
           </div>  	
         </div> 
       </div>   

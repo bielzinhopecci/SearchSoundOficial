@@ -17,7 +17,7 @@
 
    <!-- <header> -->
    <?php 
-        $pagina='index';
+        $pagina='contato';
         include 'includes/menu.php'; ?> 
    <!-- </header> -->
 
