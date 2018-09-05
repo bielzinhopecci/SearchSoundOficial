@@ -24,7 +24,7 @@
     
 <section class="container">
     <div class="my-5 text-center">
-        <h1 class="display-4">Fale Conosco</h1>
+        <h1 tabindex="0" class="display-4">Fale Conosco</h1>
     </div>
         <form class="rounded p-4 box-shadow" action="#" method="POST">
           <div class="row">
