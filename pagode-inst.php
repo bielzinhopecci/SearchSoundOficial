@@ -33,19 +33,19 @@
             <nav class="col-md-3 EscInst">
                 <ul class="list-unstyled">
                     <li class="mt-2">
-                        <img class="ImgNav mr-3" align="left" src="dist/img/Pagode%20-%20Pandeiro.jpg" alt="Imagem Ilustrativa de Pandeiro">
+                        <img class="ImgNav mr-3" align="left" src="dist/img/Pagode%20-%20Pandeiro.jpg" alt="Imagem Ilustrativa de um Pandeiro">
                        <a href="#idPandeiro" class="scroll"><p class="pt-3">Pandeiro</p></a>
                     </li>
                     <li class="pb-5 pt-5">
-                        <img class="ImgNav mr-3" align="left" src="dist/img/Pagode%20-%20Violao.jpg" alt="Imagem Ilustrativa de Violão">
+                        <img class="ImgNav mr-3" align="left" src="dist/img/Pagode%20-%20Violao.jpg" alt="Imagem Ilustrativa de um Violão">
                         <a href="#idViolao" class="scroll"><p class="pt-3">Violão</p></a>
                     </li>
                     <li class="pb-5">
-                        <img class="ImgNav mr-3" align="left" src="dist/img/Pagode%20-%20Repique.jpg" alt="Imagem Ilustrativa de Repique">
+                        <img class="ImgNav mr-3" align="left" src="dist/img/Pagode%20-%20Repique.jpg" alt="Imagem Ilustrativa de um Repique">
                        <a href="#idRepique" class="scroll"> <p class="pt-3">Repique</p></a>
                     </li>
                     <li>
-                        <img class="ImgNav mr-3" align="left" src="dist/img/Pagode%20-%20Tamborim.jpg" alt="Imagem Ilustrativa de Tamborim">
+                        <img class="ImgNav mr-3" align="left" src="dist/img/Pagode%20-%20Tamborim.jpg" alt="Imagem Ilustrativa de um Tamborim">
                        <a href="#idTamborim" class="scroll"> <p class="pt-3">Tamborim</p></a>
                     </li>
                 </ul>
@@ -53,26 +53,26 @@
             <nav class="col-md-3 EscInst">
                 <ul class="list-unstyled">
                     <li class="mt-2">
-                        <img class="ImgNav mr-3" align="left" src="dist/img/Pagode%20-%20Cavaquinho.jpg" alt="Imagem Ilustrativa de Cavaquinho">
+                        <img class="ImgNav mr-3" align="left" src="dist/img/Pagode%20-%20Cavaquinho.jpg" alt="Imagem Ilustrativa de um Cavaquinho">
                        <a href="#idCavaquinho" class="scroll"> <p class="pt-3">Cavaquinho</p></a>
                     </li>
                     <li class="pb-5 pt-5">
-                        <img class="ImgNav mr-3" align="left" src="dist/img/Pagode%20-%20TanTan.jpg" alt="Imagem Ilustrativa de TanTan">
+                        <img class="ImgNav mr-3" align="left" src="dist/img/Pagode%20-%20TanTan.jpg" alt="Imagem Ilustrativa de um TanTan">
                        <a href="#idTanTan" class="scroll"> <p class="pt-3">TanTan</p></a>
                     </li>
                     <li class="pb-5">
-                        <img class="ImgNav mr-3" align="left" src="dist/img/Pagode%20-%20Cuica.jpg" alt="Imagem Ilustrativa de Cuica">
+                        <img class="ImgNav mr-3" align="left" src="dist/img/Pagode%20-%20Cuica.jpg" alt="Imagem Ilustrativa de uma Cuica">
                         <a href="#idCuica" class="scroll"><p class="pt-3">Cuica</p></a>
                     </li>
                     <li>
-                        <img class="ImgNav mr-3" align="left" src="dist/img/Pagode%20-%20Ganza.jpg" alt="Imagem Ilustrativa de Ganza">
+                        <img class="ImgNav mr-3" align="left" src="dist/img/Pagode%20-%20Ganza.jpg" alt="Imagem Ilustrativa de uma Ganza">
                         <a href="#idGanza" class="scroll"><p class="pt-3">Ganza</p></a>
                     </li>
                 </ul>
             </nav>
             <div class="col-md-6">
                 <a href="#">
-                    <img src="dist/img/Pagode%20-%20Imagem%20Inicial.jpg" alt="Imagem Ilustrativa de uma pessoa tocando Violão" height="385px">
+                    <img src="dist/img/Pagode%20-%20Imagem%20Inicial.jpg" alt="Imagem Ilustrativa de um pandeiro com a bandeira do brasil estampada" height="385px">
                 </a>
             </div>
         </div>
@@ -88,7 +88,7 @@
                 </p>
             </div>
             <div class="col-md-2">
-                <img tabindex="0" class="img-inst" src="dist/img/Pagode%20-%20Pandeiro.jpg" alt="Imagem Ilustrativa de Pandeiro">
+                <img tabindex="0" class="img-inst" src="dist/img/Pagode%20-%20Pandeiro.jpg" alt="Imagem Ilustrativa de um Pandeiro">
             </div>
         </section>
 
@@ -101,7 +101,7 @@
                 </p>
             </div>
             <div class="col-md-2 mt-0 col-md-pull-10 col-sm-push-0">
-                <img tabindex="0" class="img-inst" src="dist/img/Pagode%20-%20Cavaquinho.jpg" alt="Imagem Ilustrativa de Cavaquinho" width="361px" height="200px" >
+                <img tabindex="0" class="img-inst" src="dist/img/Pagode%20-%20Cavaquinho.jpg" alt="Imagem Ilustrativa de um Cavaquinho" width="361px" height="200px" >
             </div>
         </section>
 
@@ -115,7 +115,7 @@
                 </p>
             </div>
             <div class="col-md-2">
-                <img tabindex="0" class="img-inst" src="dist/img/Pagode%20-%20Violao.jpg" alt="Imagem Ilustrativa de Violão">
+                <img tabindex="0" class="img-inst" src="dist/img/Pagode%20-%20Violao.jpg" alt="Imagem Ilustrativa de um Violão">
             </div>
         </section>
 
@@ -128,7 +128,7 @@
                 </p>
             </div>
             <div class="col-md-2 col-md-pull-10 col-sm-push-0">
-                <img tabindex="0" class="img-inst" src="dist/img/Pagode%20-%20TanTan.jpg"  alt="Imagem Ilustrativa de TanTan">
+                <img tabindex="0" class="img-inst" src="dist/img/Pagode%20-%20TanTan.jpg"  alt="Imagem Ilustrativa de um TanTan">
             </div>
         </section>
 
@@ -142,7 +142,7 @@
                 </p>
             </div>
             <div class="col-md-2">
-                <img tabindex="0" class="img-inst" src="dist/img/Pagode%20-%20Repique.jpg"  alt="Imagem Ilustrativa de Repique">
+                <img tabindex="0" class="img-inst" src="dist/img/Pagode%20-%20Repique.jpg"  alt="Imagem Ilustrativa de um Repique">
             </div>
         </section>
 
@@ -154,7 +154,7 @@
                 </p>
             </div>
             <div class="col-md-2 col-md-pull-10 col-sm-push-0">
-                <img tabindex="0" class="img-inst" src="dist/img/Pagode%20-%20Cuica.jpg"  alt="Imagem Ilustrativa de Cuica">
+                <img tabindex="0" class="img-inst" src="dist/img/Pagode%20-%20Cuica.jpg"  alt="Imagem Ilustrativa de uma Cuica">
             </div>
         </section>
 
@@ -168,7 +168,7 @@
                 </p>
             </div>
             <div class="col-md-2">
-                <img tabindex="0" class="img-inst" src="dist/img/Pagode%20-%20Tamborim.jpg"  alt="Imagem Ilustrativa de Tamborim">
+                <img tabindex="0" class="img-inst" src="dist/img/Pagode%20-%20Tamborim.jpg"  alt="Imagem Ilustrativa de um Tamborim">
             </div>
         </section>
 
@@ -182,7 +182,7 @@
                 </p>
             </div>
             <div class="col-md-2 col-md-pull-10 col-sm-push-0">
-                <img tabindex="0" class="img-inst" src="dist/img/Pagode%20-%20Ganza.jpg" alt="Imagem Ilustrativa de Ganza">
+                <img tabindex="0" class="img-inst" src="dist/img/Pagode%20-%20Ganza.jpg" alt="Imagem Ilustrativa de uma Ganza">
             </div>
         </section>
     </div>

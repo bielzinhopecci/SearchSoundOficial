@@ -45,7 +45,7 @@
                 </p>
             </div>
             <div class="col-xl-4 col-md-4 col-sm-12">
-                <img tabindex="0" src="dist/img/Pagode%20-%20Instrumentos.jpeg" alt="Imagens de Instrumenstos de pagode">
+                <img tabindex="0" src="dist/img/Pagode%20-%20Instrumentos.jpeg" alt="Imagens de quatro Instrumenstos de pagode, pandeiro, cavaquinho, violão e Repique">
             </div>
         </div>
 
@@ -63,7 +63,7 @@
                 </p>
             </div>
             <div class="col-xl-4 col-md-4 col-sm-12 col-md-pull-8 col-sm-push-0">
-                <img tabindex="0" src="dist/img/Pagode%20-%20BeteCarvalho.jpg" alt="Imagem da Bete Carvalho" class="mt-4">
+                <img tabindex="0" src="dist/img/Pagode%20-%20BeteCarvalho.jpg" alt="Imagem da Bete Carvalho tocando um cavaquinho" class="mt-4">
                 <small tabindex="0">Bete Carvalho</small>
             </div>
         </div>
@@ -90,7 +90,7 @@
                 </p>
             </div>
             <div class="col-md-4 mt-0 mb-3">
-                <img tabindex="0" src="dist/img/Pagode%20-%20FundodeQuintal.jpg" alt="imgagem do grupo Fundo de Quintal">
+                <img tabindex="0" src="dist/img/Pagode%20-%20FundodeQuintal.jpg" alt="imgagem dos seis integrantes do grupo Fundo de Quintal">
                 <small tabindex="0">Fundo de Quintal.</small>
             </div>
         </div>

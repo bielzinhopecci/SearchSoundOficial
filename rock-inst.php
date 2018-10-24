@@ -28,7 +28,7 @@
     <div class="lista-item py-5 col-lg-4 col-md-4 col-sm-12 col-xs-12">
         <input class="trigger-input" id="faq-titulo-1" type="checkbox">
 		      <div class="trigger-wrapper">
-            <img class="icon-instrumentos pb-1" src="dist/img/icones-rock/guitar.png" alt="Guitarra Instrumento">
+            <img class="icon-instrumentos pb-1" src="dist/img/icones-rock/guitar.png" alt="imagem vetorizada em preto e branco de uma Guitarra">
             <h2 tabindex="0" lass="text-center mt-2 pb-4">Guitarra</h2>
           <label for="faq-titulo-1">
             <h6 tabindex="0" class="faq-titulo">Descrição</h6>
@@ -40,7 +40,7 @@
     <div class="lista-item border-middle py-5 col-lg-4 col-md-4 col-sm-12 col-xs-12">
       <input class="trigger-input" id="faq-titulo-2" type="checkbox">
 		    <div class="trigger-wrapper">
-          <img class="icon-instrumentos" src="dist/img/icones-rock/drums.png" alt="Bateria Instrumento">
+          <img class="icon-instrumentos" src="dist/img/icones-rock/drums.png" alt="imagem vetorizada em preto e branco de uma Bateria">
           <h2 tabindex="0" class="text-center">Bateria</h2>
         <label for="faq-titulo-2">
           <h6 tabindex="0" class="faq-titulo">Descrição</h6>
@@ -52,7 +52,7 @@
     <div class="lista-item py-5 col-lg-4 col-md-4 col-sm-12 col-xs-12">
       <input class="trigger-input" id="faq-titulo-3" type="checkbox">
 		    <div class="trigger-wrapper">
-          <img class="icon-instrumentos" src="dist/img/icones-rock/violao.png" alt="Violão Instrumento">
+          <img class="icon-instrumentos" src="dist/img/icones-rock/violao.png" alt="imagem vetorizada em preto e branco de um Violão">
           <h2 tabindex="0" class="text-center">Violão</h2>
         <label for="faq-titulo-3">
           <h5 tabindex="0" class="faq-titulo">Descrição</h5>
@@ -66,7 +66,7 @@
     <div class="lista-item py-5 col-lg-4 col-md-4 col-sm-12 col-xs-12">
         <input class="trigger-input" id="faq-titulo-4" type="checkbox">
 		      <div class="trigger-wrapper">
-            <img class="icon-instrumentos pb-1" src="dist/img/icones-rock/piano.png" alt="Piano Instrumento">
+            <img class="icon-instrumentos pb-1" src="dist/img/icones-rock/piano.png" alt="imagem vetorizada em preto e branco de um Piano">
             <h2 tabindex="0" class="text-center mt-2 pb-4">Piano</h2>
           <label for="faq-titulo-4">
             <h6 tabindex="0" class="faq-titulo">Descrição</h6>
@@ -78,7 +78,7 @@
     <div class="lista-item border-middle py-5 col-lg-4 col-md-4 col-sm-12 col-xs-12">
       <input class="trigger-input" id="faq-titulo-5" type="checkbox">
 		    <div class="trigger-wrapper">
-          <img class="icon-instrumentos" src="dist/img/icones-rock/bass.png" alt="Baixo Instrumento">
+          <img class="icon-instrumentos" src="dist/img/icones-rock/bass.png" alt="imagem vetorizada em preto e branco de um Baixo">
           <h2 tabindex="0" class="text-center">Baixo</h2>
         <label for="faq-titulo-5">
           <h6 tabindex="0" class="faq-titulo">Descrição</h6>
@@ -90,7 +90,7 @@
     <div class="lista-item py-5 col-lg-4 col-md-4 col-sm-12 col-xs-12">
       <input class="trigger-input" id="faq-titulo-6" type="checkbox">
 		    <div class="trigger-wrapper">
-          <img class="icon-instrumentos" src="dist/img/icones-rock/teclado.png" alt="Teclado Instrumento">
+          <img class="icon-instrumentos" src="dist/img/icones-rock/teclado.png" alt="imagem vetorizada em preto e branco de um Teclado Instrumento">
           <h2 tabindex="0" class="text-center">Teclado</h2>
         <label for="faq-titulo-6">
           <h5 tabindex="0" class="faq-titulo">Descrição</h5>

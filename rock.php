@@ -46,7 +46,7 @@
             </p>
           </div>
           <div class="rock-art col-md-4">
-            <img tabindex="0" src="dist/img/first-rock.jpg" alt="Os primeiros músicos do Rock">
+            <img tabindex="0" src="dist/img/first-rock.jpg" alt="Imagem em preto e branco dos primeiros músicos do rock">
           </div>
         </div>
 
@@ -63,7 +63,7 @@
                 </p>
             </div>
               <div class="rock-art col-md-4">
-                <img tabindex="0" src="dist/img/elvis.jpg" alt="Elvis Presley Músico" class="mt-2">
+                <img tabindex="0" src="dist/img/elvis.jpg" alt="imagem em preto e branco do músico Elvis Presley" class="mt-2">
                   <small tabindex="0">Elvis Presley, O "Rei do Rock".</small>
               </div>
           </div>
