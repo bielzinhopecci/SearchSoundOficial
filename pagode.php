@@ -115,11 +115,11 @@
         </div>
         <div class="row mt-3 text-center pb-3">
             <div class="col-md-12 pb-3">
-                <iframe class="video video-pag" src="https://www.youtube.com/embed/rBoH_QL-kHw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-                </iframe>
-                
+                <iframe class="video video-pag"  width="420" height="280" src="https://www.youtube.com/embed/rBoH_QL-kHw" 
+                        frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                 <p tabindex="0">Fundo de Quintal - A Amizade (Ao Vivo)</p>
             </div>
-            
+                
         </div>
         <strong tabindex="0" class="pb-2">Hey, você sabia ?</strong>
         <p tabindex="0" class="text-dark mt-4">Em 1975 Martinho da Vila gravou o álbum ‘Pelo Telefone’, como uma homenagem ao samba e ao compositor.</p>
