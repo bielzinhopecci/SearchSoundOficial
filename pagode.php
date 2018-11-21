@@ -110,7 +110,7 @@
                 <p tabindex="0">
                     A inovação no pagode neste caso veio a reboque das necessidades comerciais.
                 </p>
-                <small>Texto de <a href="http://almanaque.folha.uol.com.br/pagode.htm"> Renato Roschel<br/> do Banco de Dados</a></small>
+                <small>Texto de <a href="http://almanaque.folha.uol.com.br/pagode.htm"> Renato Roschel do site "Almanaque Folha"</a></small>
             </div>
         </div>
         <div class="row mt-3 text-center pb-3">
