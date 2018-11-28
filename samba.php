@@ -18,7 +18,9 @@
    <!-- <header> -->
    <?php 
         $pagina='samba';
-        include 'includes/menu.php'; ?> 
+        include 'includes/menu.php'; 
+        include 'includes/aut.php';
+    ?> 
    <!-- </header> -->
    
 <div class="introducao-samba">
@@ -53,8 +55,10 @@
 
   <div class="row samba-divisor">
     <img tabindex="0" src="dist/img/samba-historia3.jpg" alt="Ilustração muito antiga que representa escravos em uma roda de samba" class="col-md-3">
-    <p tabindex="0" class="col-md-9 textgrupo">O primeiro samba gravado no Brasil foi Pelo Telefone, em janeiro de 1917, cantado por Baiano. A letra deste samba foi uma composição coletiva com a participação de João da Baiana, Pixinguinha, Donga e outros músicos que frequentavam a casa da Tia Ciata, no Rio de Janeiro. Donga (Ernesto Joaquim Maria dos Santos) havia registrado, na Biblioteca Nacional do Brasil, a letra deste samba em 27 de novembro de 1916. Direitos autorais dos textos pertencentes a 
-    <a href="https://www.todamateria.com.br/samba/" target="_blank" title="Link que encaminhará para o site https://www.todamateria.com.br/samba/">Daniela Diana do site "Toda Matéria" </a>
+    <p tabindex="0" class="col-md-9 textgrupo">O primeiro samba gravado no Brasil foi Pelo Telefone, em janeiro de 1917, cantado por Baiano. A letra deste samba foi uma composição coletiva com a participação de João da Baiana, Pixinguinha, Donga e outros músicos que frequentavam a casa da Tia Ciata, no Rio de Janeiro. Donga (Ernesto Joaquim Maria dos Santos) havia registrado, na Biblioteca Nacional do Brasil, a letra deste samba em 27 de novembro de 1916. Direitos autorais dos textos pertencentes a <a href="https://www.todamateria.com.br/samba/" target="_blank">Daniela Diana.</a>
+
+    
+
 </p>
   </div>
 

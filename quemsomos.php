@@ -18,7 +18,9 @@
    <!-- <header> -->
    <?php 
         $pagina='quemsomos';
-        include 'includes/menu.php'; ?> 
+        include 'includes/menu.php'; 
+        include 'includes/aut.php';
+    ?> 
    <!-- </header> -->
 
     

@@ -20,7 +20,9 @@
    <!-- <header> -->
    <?php 
         $pagina='pagode-inst';
-        include 'includes/menu.php'; ?> 
+        include 'includes/menu.php'; 
+        include 'includes/aut.php';
+    ?> 
    <!-- </header> -->
 
     <div class="container">

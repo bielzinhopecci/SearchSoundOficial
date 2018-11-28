@@ -19,7 +19,9 @@
 <!-- <header> -->
     <?php 
         $pagina='rock-inst';
-        include 'includes/menu.php'; ?> 
+        include 'includes/menu.php'; 
+        include 'includes/aut.php';
+    ?> 
 <!-- </header> -->
 
 <section class="container">
@@ -109,9 +111,8 @@
   <div class="row pt-5 mt-5">
     <div class="col-md-5">
     <iframe width="420" height="280" src="https://www.youtube.com/embed/wDvlErh5zcc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-        <p tabindex="0">Jimi Hendrix - Freedom (Live)</p>
     </div>
-      <div class="col-md-7">    
+      <div class="col-md-7">
         <h3 tabindex="0" class="pb-2 mt-5 text-left">Jimi Hendrix - Guitarrista</h3>
         <p tabindex="0" >Jimmy Hendrix (1942-1970) é o melhor guitarrista de todos os tempos, segundo a Rolling Stone americana.
            Em sua curta carreira, que durou apenas cinco anos, Hendrix mostrou ser um músico inovador, 
@@ -131,14 +132,12 @@
           </div>
         <div class="col-md-5">
           <iframe width="420" height="280" src="https://www.youtube.com/embed/RlNhD0oS5pk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-      <p tabindex="0">Led Zeppelin - Immigrant Song (Live 1972) (Official Video)</p>  
-      </div>
+        </div>
 
   <div class="row pt-5 mt-5">
     <div class="col-md-5">
     <iframe class="ml-3" width="420" height="280" src="https://www.youtube.com/embed/4bB5xL577r4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-     <p tabindex="0">Jerry Lee Lewis - Great Balls Of Fire (Jerry Lee Lewis And Friends)</p>  
-      </div>
+    </div>
       <div class="col-md-7">
         <h3 tabindex="0" class="pb-2 mt-5 text-left">Jerry Lee Lewis - Pioneiro</h3>
         <p tabindex="0">Jerry Lee Lewis um dos pioneiros e maiores estrelas do rock dos anos 50, mestre do piano com o apelido de "The Killer", 

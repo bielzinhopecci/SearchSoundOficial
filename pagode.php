@@ -20,7 +20,9 @@
    <!-- <header> -->
    <?php 
         $pagina='pagode';
-        include 'includes/menu.php'; ?> 
+        include 'includes/menu.php'; 
+        include 'includes/aut.php';
+    ?> 
    <!-- </header> -->
 
                                                 <!--História do Pagode-->
@@ -110,16 +112,16 @@
                 <p tabindex="0">
                     A inovação no pagode neste caso veio a reboque das necessidades comerciais.
                 </p>
-                <small>Texto de <a href="http://almanaque.folha.uol.com.br/pagode.htm"> Renato Roschel do site "Almanaque Folha"</a></small>
+                <small>Texto de <a href="http://almanaque.folha.uol.com.br/pagode.htm"> Renato Roschel<br/> do Banco de Dados</a></small>
             </div>
         </div>
         <div class="row mt-3 text-center pb-3">
             <div class="col-md-12 pb-3">
-                <iframe class="video video-pag"  width="420" height="280" src="https://www.youtube.com/embed/rBoH_QL-kHw" 
-                        frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                 <p tabindex="0">Fundo de Quintal - A Amizade (Ao Vivo)</p>
-            </div>
+                <iframe class="video video-pag" src="https://www.youtube.com/embed/rBoH_QL-kHw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+                </iframe>
                 
+            </div>
+            
         </div>
         <strong tabindex="0" class="pb-2">Hey, você sabia ?</strong>
         <p tabindex="0" class="text-dark mt-4">Em 1975 Martinho da Vila gravou o álbum ‘Pelo Telefone’, como uma homenagem ao samba e ao compositor.</p>

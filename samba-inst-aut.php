@@ -19,7 +19,9 @@
    <!-- <header> -->
    <?php 
         $pagina='samba-inst';
-        include 'includes/menu.php'; ?> 
+        include 'includes/menu-aut.php'; 
+        include 'includes/normal.php';
+    ?> 
    <!-- </header> -->
 
     <div class="container">

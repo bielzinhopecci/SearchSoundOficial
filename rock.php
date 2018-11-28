@@ -22,7 +22,9 @@
     <!-- <header> -->
     <?php 
         $pagina='rock';
-        include 'includes/menu.php'; ?> 
+        include 'includes/menu.php'; 
+        include 'includes/aut.php';
+    ?> 
     <!-- </header> -->
     
 <div class="introducao-rock">

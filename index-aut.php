@@ -15,7 +15,9 @@
     <!-- <header> -->
     <?php 
         $pagina='index';
-        include 'includes/menu.php'; ?>
+        include 'includes/menu-aut.php'; 
+        include 'includes/normal.php';
+    ?>
     <!-- </header> -->
 
     <div class="container">
