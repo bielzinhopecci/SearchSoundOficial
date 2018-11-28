@@ -1,6 +1,6 @@
     <header class="header">
             <nav class="navbar navbar-expand-lg">
-                <a class="navbar-brand" href="index.php">
+                <a class="navbar-brand" href="index-aut.php">
                     <img src="dist/img/logo.png" alt="Logo">
                 </a>
                 <button class="navbar-toggler text-white" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Abrir Navegação">
